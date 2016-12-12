@@ -1,2 +1,7 @@
-# raspberrypiUtils
-Utilities of Raspberry pi
+# RaspberrypiUtils
+
+Directory structure
+       |
+       |- config
+       |- getweatherInfo.py
+       |- utils
