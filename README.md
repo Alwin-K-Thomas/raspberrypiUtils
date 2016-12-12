@@ -1,11 +1,13 @@
-# RaspberrypiUtils
-
 <h1>RaspberrypiUtils</h1>
 
 <ul>
 <li>Directory</li>
 <ul>
 <li>config</li>
+<ul>
+<li>allConfigurations.ini</li>
+<li>secrets.ini</li>
+</ul>
 <li>utils</li>
 <ul>
 <li>getIpAddr.py</li>
